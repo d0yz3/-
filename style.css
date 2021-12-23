@@ -1,0 +1,6 @@
+.img2{
+    filter: blur(5px);
+}
+.img3{
+    filter: sepia(100%);
+}
